@@ -10,11 +10,11 @@ My GitHub page is http://github.com/MARKOLIKESRAMEN011.
 
 * Lab 7, part 2
 
-For me, lab 7, part two (the one about parking), is a favorite of mine because of how interesting and fun it was to write the code (even though it was confusing at times). Of course, I did learn how to truly implement && and || into coding, especially when dealing with so many variables that you need to compare and contrast so it becomes critical to know when to use parentheses. Likewise, I also learned how to apply these logical operators to any real world example such as the one I did here.
+For me, lab 7, part two (the one about parking), is a favorite of mine because of how interesting and fun it was to write the code (even though it was confusing at times). Of course, I did learn how to truly implement && and "||" into coding, especially when dealing with so many variables that you need to compare and contrast so it becomes critical to know when to use parentheses. Likewise, I also learned how to apply these logical operators to any real world example such as the one I did here.
 
 * Lab 6, part two
 
-I also enjoyed lab 6, part two (the one about blackjack), as I am quite fond of blackjack after having played it many times before, even though it was mostly in video games. Like I mentioned for lab 7, part two, I learned how to apply logical operators to real world examples, as well as how to check if a player enters the right amount of cards in their argument input (including a.out). Furthermore, it was also interesting to write the function that actually determined if the card’s names were legitimate (which was done by using the logical operators).
+I also enjoyed lab 6, part two (the one about blackjack), as I am quite fond of blackjack after having played it many times before, even though it was mostly in video games. Like I mentioned for lab 7, part two, I learned how to apply logical operators to real world examples, as well as how to check if a player enters the right amount of cards in their argument input (including a.out). Furthermore, it was also interesting to write the function that actually determined if the card’s names were legitimate (which was done by using the "||" and !).
 
 * Lab 3, part 1
 
