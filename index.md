@@ -6,7 +6,7 @@ This is my home page! My name is Marko Cosic and I am a student at [Cal State Fu
 
 My GitHub page is http://github.com/MARKOLIKESRAMEN011.
 
-### CPSC 120
+### Favorite CPSC 120L Labs
 
 * Lab 7, part 2
 
