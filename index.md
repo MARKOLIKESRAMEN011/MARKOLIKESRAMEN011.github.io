@@ -1,7 +1,7 @@
 
 # Marko Cosic's Portfolio
 
-This is my home page! My name is Your Name and I am a student at Cal State Fullerton (http://www.fullerton.edu/) and my major is computer science
+This is my home page! My name is Your Name and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science
 ## Computer Science Projects
 
 My GitHub page is http://github.com/MARKOLIKESRAMEN011.
@@ -14,7 +14,7 @@ For me, lab 7, part two (the one about parking), is a favorite of mine because o
 
 * Lab 6, part two
 
-I also enjoyed lab 6, part two (the one about blackjack), as I am quite fond of blackjack after having played it many times before, even though it was mostly in video games. Like I mentioned for lab 7, part two, I learned how to apply logical operators to real world examples, as well as how to check if a player enters the right amount of cards in their argument input (including a.out). Furthermore, it was also interesting to write the function that actually determined if the card’s names were legitimate (which was done by using the || and ! operator).
+I also enjoyed lab 6, part two (the one about blackjack), as I am quite fond of blackjack after having played it many times before, even though it was mostly in video games. Like I mentioned for lab 7, part two, I learned how to apply logical operators to real world examples, as well as how to check if a player enters the right amount of cards in their argument input (including a.out). Furthermore, it was also interesting to write the function that actually determined if the card’s names were legitimate (which was done by using the logical operators).
 
 * Lab 3, part 1
 
