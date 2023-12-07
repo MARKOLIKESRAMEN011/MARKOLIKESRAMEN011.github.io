@@ -10,7 +10,7 @@ My GitHub page is http://github.com/MARKOLIKESRAMEN011.
 
 * Lab 7, part 2
 
-For me, lab 7, part two (the one about parking), is a favorite of mine because of how interesting and fun it was to write the code (even though it was confusing at times). Of course, I did learn how to truly implement && and or operator into coding, especially when dealing with so many variables that you need to compare and contrast so it becomes critical to know when to use parentheses. Likewise, I also learned how to apply these logical operators to any real world example such as the one I did here.
+For me, lab 7, part two (the one about parking), is a favorite of mine because of how interesting and fun it was to write the code (even though it was confusing at times). Of course, I did learn how to truly implement && and the or operator into coding, especially when dealing with so many variables that you need to compare and contrast so it becomes critical to know when to use parentheses. Likewise, I also learned how to apply these logical operators to any real world example such as the one I did here.
 
 * Lab 6, part two
 
